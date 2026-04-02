@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "homepage": ".",
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^7.0.0",
     "@testing-library/dom": "^10.4.1",
